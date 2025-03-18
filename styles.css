@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+h1 {
+    font-weight: bold;
+}
+span {
+    color: #49a6e9;
+}
+.para {
+    background-color: #222222;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+}
+.page {
+    height: 100vh;
+}
+#button1 {
+    border-style: solid;
+    background-color: #e0e0e0;
+    border-width: 3px;
+    border-color: #222222;
+    height: 100px;
+    width: 100px;
+    border-radius: 22px;
+}
+#button2 {
+    border-style: solid;
+    background-color: #6fcf97;
+    border-width: 3px;
+    border-color: #222222;
+    height: 100px;
+    width: 100px;
+    border-radius: 22px;
+}
+#button3 {
+    border-style: solid;
+    background-color: #56ccf2;
+    border-width: 3px;
+    border-color: #222222;
+    height: 100px;
+    width: 100px;
+    border-radius: 22px;
+}
+#button4 {
+    border-style: solid;
+    background-color: #bb6bd9;
+    border-width: 3px;
+    border-color: #222222;
+    height: 100px;
+    width: 100px;
+    border-radius: 22px;
+}
